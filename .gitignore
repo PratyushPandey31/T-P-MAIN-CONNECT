@@ -19,3 +19,6 @@ target/
 
 # MacOS
 .DS_Store
+
+# Secret Properties
+application-secrets.properties
